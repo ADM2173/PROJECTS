@@ -1,1 +1,10 @@
+Aditya Meena 
+210002007
 
+Using I2C,Arduino Uno Github
+– Displays Voting Status: The LCD shows whether the machine is ready to accept votes or not, based on the state
+controlled by the admin button.
+– Vote Counting: Button presses for each candidate increment their respective vote counts, with results displayed on
+the LCD.
+– Admin Control: The admin button toggles the machine’s voting readiness without resetting vote counts, ensuring
+that only one person votes at a time.
